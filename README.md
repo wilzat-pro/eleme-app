@@ -30,27 +30,15 @@
 
 
 ## Build Setup
-
-``` bash
-# install dependencies
+```
+# 下载代码后进入到工程根目录
 npm install
 
-# serve with hot reload at localhost:8080
+# 执行以下命令以开发者模式运行项目，然后在浏览器打开：http://localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包项目命令
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
